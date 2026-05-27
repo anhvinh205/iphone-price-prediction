@@ -38,7 +38,7 @@ This repository contains:
 ## Project Structure
 
 ```
-dự đoán giá nhà/
+iphone price prediction/
 ├── data/
 │   └── iphone_release.csv          # Training dataset
 ├── models/
